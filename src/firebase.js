@@ -6,14 +6,13 @@ import { getStorage } from "firebase/storage";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBrymH5iGhrPa1yER4KzrGTtQ92rjZAOeU",
-  authDomain: "stringvibeschat-ec648.firebaseapp.com",
-  projectId: "stringvibeschat-ec648",
-  storageBucket: "stringvibeschat-ec648.appspot.com",
-  messagingSenderId: "677161295842",
-  appId: "1:677161295842:web:c0dee29ab8bc388ac8e3bb"
+  apiKey: "AIzaSyD5R_QaBZfkPSoQ2w8H35Ux-4LaE8JfXrs",
+  authDomain: "project-eden-c8750.firebaseapp.com",
+  projectId: "project-eden-c8750",
+  storageBucket: "project-eden-c8750.appspot.com",
+  messagingSenderId: "954934526891",
+  appId: "1:954934526891:web:b59eefd0e46def85e1c8ee"
 };
-
 
 export const app = initializeApp(firebaseConfig);
 export const auth = getAuth();
