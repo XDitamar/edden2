@@ -74,7 +74,8 @@ function Register() {
           <button>Sign Up</button>
           {err && <span>Error</span>}
         </form>
-        <p>You don't have an account? <Link to='/login'>Sign Up</Link></p>
+        <p>have an account? <Link to='/login'>Login</Link></p>
+        <p>After you register you have to log in</p>
       </div>
     </div>
   );
