@@ -30,6 +30,11 @@ const AboutMe = () => {
         <br/> 
         
         If Youre a client looking for a band - Go to our customed search system to start finding your ultimate band!
+        <br/>
+         1. Choose the relavent filters for your ultimate band choice
+          <br/>
+         2. Once you found the right band for your event/needs, search for the band's name in the chat and start communicating.
+    
       
         </p>
         <Link to="/search" className="searchButton">
