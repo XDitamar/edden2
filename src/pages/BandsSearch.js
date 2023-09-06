@@ -8,7 +8,7 @@ const BandsSearch = () => {
   const [searchQuery, setSearchQuery] = useState('');
 
   const criteriaList = [
-    'Pop',
+    'pop',
     'Rock',
     'Jazz',
     'Country',
