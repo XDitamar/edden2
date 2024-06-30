@@ -6,7 +6,7 @@ import { getStorage } from "firebase/storage";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBrymH5iGhrPa1yER4KzrGTtQ92rjZAOeU",
+ apiKey: "AIzaSyBrymH5iGhrPa1yER4KzrGTtQ92rjZAOeU",
   authDomain: "stringvibeschat-ec648.firebaseapp.com",
   projectId: "stringvibeschat-ec648",
   storageBucket: "stringvibeschat-ec648.appspot.com",
